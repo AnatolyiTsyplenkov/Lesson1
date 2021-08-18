@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">Lesson1</string>
+    <string name="app_name">FistApp</string>
+    <string name="some_text">some text</string>
+    <string name="input_text">input text</string>
+    <string name="tap_me">Tap me</string>
+    <string name="switch_off">off</string>
+    <string name="switch_on">on</string>
+    <string name="check_box">check box</string>
+    <string name="togglebtn_on">ВКЛ</string>
+    <string name="togglebtn_off">ВЫКЛ</string>
+    <string name="input_your_name">input your name</string>
+    <string name="input_phone_number">input phone number</string>
+    <string name="input_number">input number</string>
+    <string name="input_password">input password</string>
+    <string name="input_email">input email</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
